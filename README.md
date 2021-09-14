@@ -1,2 +1,0 @@
-# leader
-My Personal Website
